@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
     <div className="">
         <div className="">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam placeat architecto omnis consequuntur autem sit optio debitis, consectetur distinctio accusantium cumque iste voluptas ea nam rerum facilis quam magni! Iure!
+          <img src="https://avatars.githubusercontent.com/u/139304882?s=200&v=4" alt="" style={{ borderRadius: '5px'}}/>
         </div>
     </div>
   )
