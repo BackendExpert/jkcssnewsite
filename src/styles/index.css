@@ -23,6 +23,11 @@
   --title-margin: 20px;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .navbar {
   background-color: var(--jk-purple);
 }

@@ -3,8 +3,8 @@ import '../../styles/index.css'
 
 const NavBar = () => {
   return (
-    <div className=''>
-
+    <div className='navbar'>
+        hi all
     </div>
   )
 }
