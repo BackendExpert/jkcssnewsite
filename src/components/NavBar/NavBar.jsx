@@ -6,10 +6,14 @@ import JKCSS from '../../assets/jkcss.png'
 const NavBar = () => {
   return (
     <div className='container navbar'>
-        <div className="">
-            <img src={JKCSS} alt="" className='logo'/>
+        <div className="flex justify-between">
+            <div className="flex">
+                <img src={JKCSS} alt="" className='logo'/>
+                <h1 className="font-semibold mx-2">JKCSS</h1>
+            </div>
+        
         </div>
-        <h1 className="font-semibold">JKCSS</h1>
+        
     </div>
   )
 }
