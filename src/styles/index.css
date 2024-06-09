@@ -28,6 +28,10 @@
   padding: 0;
 }
 
+.container {
+  padding: 0 5%;
+}
+
 .navbar {
   background-color: var(--jk-purple);
 }
