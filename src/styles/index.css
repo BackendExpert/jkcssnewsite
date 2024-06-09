@@ -88,12 +88,3 @@
     display: none;
   }
 }
-.img-list {
-  display: block;
-}
-
-@media (min-width: 768px) {
-  .img-list {
-    display: flex;
-  }
-}
