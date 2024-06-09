@@ -32,6 +32,11 @@
   padding: 0 10%;
 }
 
+.site-container {
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
 .navbar {
   background-color: var(--jk-purple);
   color: var(--jk-mfont-color);
