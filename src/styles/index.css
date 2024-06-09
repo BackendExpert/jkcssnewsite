@@ -52,4 +52,6 @@
 .navbar ul {
   list-style-type: none;
   display: flex;
+  padding: 10px;
+  font-size: larger;
 }
