@@ -17,9 +17,9 @@ const NavBar = () => {
             </div>
             <div className="">
                 <ul>
-                    <li>HI akk</li>
-                    <li>HI akk</li>
-                    <li>HI akk</li>
+                    <a href='#'><li style={{ paddingLeft: '25px', color: 'white' }}>Get Started</li></a>
+                    <a href='#'><li style={{ paddingLeft: '25px', color: 'white' }}>Get Started</li></a>
+                    <a href='#'><li style={{ paddingLeft: '25px', color: 'white' }}>Get Started</li></a>
                 </ul>              
             </div>
             <div className="" style={{ paddingTop: '6px' }}>
