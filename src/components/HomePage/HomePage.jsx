@@ -12,7 +12,11 @@ const HomePage = () => {
                     <p className="">CSS Framework</p>
                     <p className="">The First CSS Framework Developed in Sri Lanka</p>
                 </div>
-            </center>         
+                <p className="" style={{ paddingTop: '3rem', fontSize: '35px'}}>
+                    Develop Your Own code Faster than Faster with JKCSS
+                </p>
+            </center> 
+            <hr style={{ marginTop: '40px', marginBottom: '40px'}}/>        
         </div>
     </div>
   )
