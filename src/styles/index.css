@@ -89,6 +89,11 @@
   }
 }
 .img-list {
-  display: flex;
-  justify-content: space-between;
+  display: block;
+}
+
+@media (min-width: 768px) {
+  .img-list {
+    display: flex;
+  }
 }
