@@ -7,3 +7,8 @@
 .navbar h1 {
   font-size: larger;
 }
+
+.logo {
+  height: 40px;
+  width: auto;
+}
