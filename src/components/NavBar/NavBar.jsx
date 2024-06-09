@@ -18,8 +18,9 @@ const NavBar = () => {
             <div className="">
                 <ul>
                     <a href='#'><li style={{ paddingLeft: '25px', color: 'white' }}>Get Started</li></a>
-                    <a href='#'><li style={{ paddingLeft: '25px', color: 'white' }}>Get Started</li></a>
-                    <a href='#'><li style={{ paddingLeft: '25px', color: 'white' }}>Get Started</li></a>
+                    <a href='#'><li style={{ paddingLeft: '25px', color: 'white' }}>Docs</li></a>
+                    <a href='#'><li style={{ paddingLeft: '25px', color: 'white' }}>Utility-First</li></a>
+                    <a href='#'><li style={{ paddingLeft: '25px', color: 'white' }}>For ReactJS</li></a>
                 </ul>              
             </div>
             <div className="" style={{ paddingTop: '6px' }}>
