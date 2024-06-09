@@ -8,7 +8,7 @@ import { BsGithub, BsLinkedin } from "react-icons/bs";
 const NavBar = () => {
   return (
     <div className='container navbar'>
-        <div className="flex justify-between">
+        <div className="nav-content">
             <div className="flex">
                 <Link to={'/'}>
                     <img src={JKCSS} alt="" className='logo'/>
