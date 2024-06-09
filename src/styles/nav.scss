@@ -32,8 +32,17 @@
     display: none;
 }
 
+.menu-btn{
+    display: block;
+    width: auto;
+    padding-top: 10px;
+}
+
 @media (min-width: 768px) {
     .list-content{
         display: block;
+    }
+    .menu-btn{
+        display: none;
     }
 }

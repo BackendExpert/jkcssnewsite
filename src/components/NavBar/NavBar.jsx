@@ -3,7 +3,7 @@ import '../../styles/index.css'
 import '@jehankandy/jkcss/src/jkcss.css'
 import JKCSS from '../../assets/jkcss.png'
 import { Link } from 'react-router-dom'
-import { BsGithub, BsLinkedin } from "react-icons/bs";
+import { BsGithub, BsLinkedin, BsList } from "react-icons/bs";
 
 const NavBar = () => {
   return (
@@ -15,7 +15,11 @@ const NavBar = () => {
                 </Link>
                 <h1 className="font-semibold">JKCSS</h1>
             </div>
+            <div className="menu-btn">
+                    <BsList style={{ height: '20px', width: 'auto'}}/>
+                </div>
             <div className="list-content">
+
                 <ul>
                     <a href=''><li style={{ paddingLeft: '25px', color: 'white' }}>Get Started</li></a>
                     <a href=''><li style={{ paddingLeft: '25px', color: 'white' }}>Docs</li></a>
