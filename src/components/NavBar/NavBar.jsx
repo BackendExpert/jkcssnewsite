@@ -1,5 +1,6 @@
 import React from 'react'
 import '../../styles/index.css'
+import '@jehankandy/jkcss/src/buttons/button.css'
 
 const NavBar = () => {
   return (
