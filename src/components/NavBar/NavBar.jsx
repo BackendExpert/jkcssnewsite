@@ -7,7 +7,7 @@ const NavBar = () => {
   return (
     <div className='container navbar'>
         <div className="">
-            <img src="" alt="" />
+            <img src={JKCSS} alt="" className='logo'/>
         </div>
         <h1 className="font-semibold">JKCSS</h1>
     </div>
