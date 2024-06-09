@@ -1,11 +1,11 @@
 import React from 'react'
 import '../../styles/index.css'
-import '@jehankandy/jkcss/src/buttons/button.css'
+import '@jehankandy/jkcss/src/jkcss.css'
 
 const NavBar = () => {
   return (
     <div className='container navbar'>
-        hi all
+        <h1 className="font-semibold">JKCSS</h1>
     </div>
   )
 }

@@ -3,3 +3,7 @@
   color: var(--jk-mfont-color);
   padding: 20px;
 }
+
+.navbar h1 {
+  font-size: larger;
+}
