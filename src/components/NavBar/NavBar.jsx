@@ -3,7 +3,7 @@ import '../../styles/index.css'
 
 const NavBar = () => {
   return (
-    <div className='navbar'>
+    <div className='container navbar'>
         hi all
     </div>
   )
