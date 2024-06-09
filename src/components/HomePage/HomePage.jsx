@@ -1,10 +1,12 @@
 import React from 'react'
-import NavBar from '../NavBar/NavBar'
+
 
 const HomePage = () => {
   return (
     <div className="">
-        <NavBar />
+        <div className="">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam placeat architecto omnis consequuntur autem sit optio debitis, consectetur distinctio accusantium cumque iste voluptas ea nam rerum facilis quam magni! Iure!
+        </div>
     </div>
   )
 }
