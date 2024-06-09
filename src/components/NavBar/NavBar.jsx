@@ -3,7 +3,7 @@ import '../../styles/index.css'
 import '@jehankandy/jkcss/src/jkcss.css'
 import JKCSS from '../../assets/jkcss.png'
 import { Link } from 'react-router-dom'
-import { BsLinkedin } from "react-icons/bs";
+import { BsGithub, BsLinkedin } from "react-icons/bs";
 
 const NavBar = () => {
   return (
@@ -16,7 +16,8 @@ const NavBar = () => {
                 <h1 className="font-semibold">JKCSS</h1>
             </div>
             <div className="" style={{ paddingTop: '6px' }}>
-                <BsLinkedin style={{ height: '30px', width: 'auto'}} />
+                <Link to={'https://www.linkedin.com/in/jehan-weerasuriya-23a3a4223/'}><BsLinkedin style={{ height: '30px', width: 'auto', paddingRight: '10px'}} /></Link>
+                <Link to={'https://github.com/JKCSS-CSS-Framework'}><BsGithub style={{ height: '30px', width: 'auto', paddingRight: '10px'}} /></Link>
             </div>
         
         </div>
