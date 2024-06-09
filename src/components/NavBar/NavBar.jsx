@@ -15,8 +15,8 @@ const NavBar = () => {
                 </Link>
                 <h1 className="font-semibold">JKCSS</h1>
             </div>
-            <div className="">
-                <BsLinkedin style={{ height: '20px', width: 'auto'}} />
+            <div className="" style={{ paddingTop: '6px' }}>
+                <BsLinkedin style={{ height: '30px', width: 'auto'}} />
             </div>
         
         </div>
