@@ -6,7 +6,9 @@ const HomePage = () => {
     <div className="site-container">
         <div className="img-list">
           <img src="https://avatars.githubusercontent.com/u/139304882?s=200&v=4" alt="" style={{ borderRadius: '5px'}}/>
+          <p className="">+</p>
           <img src="https://avatars.githubusercontent.com/u/139304882?s=200&v=4" alt="" style={{ borderRadius: '5px'}}/>
+          <p className="">+</p>
           <img src="https://avatars.githubusercontent.com/u/139304882?s=200&v=4" alt="" style={{ borderRadius: '5px'}}/>
         </div>
     </div>
