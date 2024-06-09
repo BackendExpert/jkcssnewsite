@@ -9,7 +9,7 @@ const NavBar = () => {
         <div className="flex justify-between">
             <div className="flex">
                 <img src={JKCSS} alt="" className='logo'/>
-                <h1 className="font-semibold mx-2">JKCSS</h1>
+                <h1 className="font-semibold">JKCSS</h1>
             </div>
         
         </div>
