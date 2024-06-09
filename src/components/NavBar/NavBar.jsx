@@ -15,7 +15,7 @@ const NavBar = () => {
                 </Link>
                 <h1 className="font-semibold">JKCSS</h1>
             </div>
-            <div className="">
+            <div className="list-content">
                 <ul>
                     <a href='#'><li style={{ paddingLeft: '25px', color: 'white' }}>Get Started</li></a>
                     <a href='#'><li style={{ paddingLeft: '25px', color: 'white' }}>Docs</li></a>
