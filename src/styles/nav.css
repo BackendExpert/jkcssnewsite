@@ -1,7 +1,7 @@
 .navbar {
   background-color: var(--jk-purple);
   color: var(--jk-mfont-color);
-  padding: 15px;
+  padding: 10px;
 }
 
 .navbar h1 {
